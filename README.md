@@ -30,4 +30,5 @@ The repository serves three purposes:
 - **Research development** — building a portfolio of projects that highlight methodological contributions in areas such as Bayesian modeling, survival analysis, longitudinal data methods, and machine learning for health.  
 - **Scholarly communication** — demonstrating clarity in documentation, transparency in workflow, and interdisciplinary impact through reproducible code and explanatory notes.  
 
+By integrating foundational exercises, applied projects, and methodological notes, this portfolio reflects a commitment to advancing biostatistics not only as a tool for application but as a discipline of methodological innovation.
 
