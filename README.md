@@ -22,12 +22,12 @@ Each folder in this repository reflects a key component of the training pipeline
 
 ## Mission Statement
 
-This portfolio is designed as a structured training and research environment in methodological biostatistics. It documents a 24‑month progression through mathematical foundations, statistical theory, and applied public health data analysis, with a consistent emphasis on reproducibility and methodological rigor.  
+This portfolio is designed as a structured training and research environment in methodological biostatistics. It documents a 24‑month progression through mathematical foundations, statistical theory, and applied public health data analysis, with a consistent emphasis on reproducibility and methodological rigor.
 
-The repository serves three purposes:  
-1. **Graduate‑level preparation** — consolidating advanced mathematical and computational skills to support formal coursework in biostatistics.  
-2. **Research development** — building a portfolio of projects that highlight methodological contributions in areas such as Bayesian modeling, survival analysis, longitudinal data methods, and machine learning for health.  
-3. **Scholarly communication** — demonstrating clarity in documentation, transparency in workflow, and interdisciplinary impact through reproducible code and explanatory notes.  
+The repository serves three purposes:
 
-By integrating foundational exercises, applied projects, and methodological notes, this portfolio reflects a commitment to advancing biostatistics not only as a tool for application but as a discipline of methodological innovation.
+- **Graduate‑level preparation** — consolidating advanced mathematical and computational skills to support formal coursework in biostatistics.  
+- **Research development** — building a portfolio of projects that highlight methodological contributions in areas such as Bayesian modeling, survival analysis, longitudinal data methods, and machine learning for health.  
+- **Scholarly communication** — demonstrating clarity in documentation, transparency in workflow, and interdisciplinary impact through reproducible code and explanatory notes.  
+
 
