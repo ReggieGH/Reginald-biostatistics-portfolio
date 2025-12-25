@@ -15,7 +15,7 @@ The portfolio follows a week-by-week implementation plan across eight phases, in
 
 Each folder in this repository reflects a key component of the training pipeline:
 
-- `01_foundations/` — Exercises and notes on mathematical foundations and R programming
+- `01_foundations/` — Practice scripts and weekly notes on mathematical foundations, with reproducible workflows in R and Python
 - `02_projects/` — Applied and methodological projects with reproducible code and public health datasets
 - `03_notes/` — Conceptual write-ups on statistical methods, epidemiology, and modeling strategies
 - `04_cheatsheets/` — Quick references for Git, R, modeling workflows, and reproducibility tools
